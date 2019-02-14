@@ -102,12 +102,12 @@
 
 * Alguna línea de código HTML que se aplique.
 
-    "<html lang="es">
-    <head>
-    <meta http-equiv="X-Frame-Options" content="DENY">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="imagetoolbar" content="no">
-    <title>Control de Errores</title>"
+    `<html lang="es">
+        <head>
+            <meta http-equiv="X-Frame-Options" content="DENY">
+            <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <meta http-equiv="imagetoolbar" content="no">
+            <title>Control de Errores</title>`
 
 
 
