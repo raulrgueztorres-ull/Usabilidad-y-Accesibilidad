@@ -42,18 +42,18 @@
 
 * Alguna línea de código CSS que se aplique.
 
-    .section​ {}
+    `.section​ {}
     font-family​ : "Droid Sans", sans-serif;
     font-size​ : 15px;
     color​ : #000;
     max-width​ : 960px;
     margin​ : 0 auto;
     padding​ : 5px 0 0 0;
-    clear​ : both;
+    clear​ : both;`
 
 * Alguna línea de código HTML que se aplique.
 
-    "<div class="izq"> <img src="/istac/resources/imagenes/logo_istac.jpg" alt=""></div>"
+   `<div class="izq"> <img src="/istac/resources/imagenes/logo_istac.jpg" alt=""></div>`
 
 
 ## Página Web: [ISTAC en XML](https://www3.gobiernodecanarias.org/istac/api/operations/v1.0/operations?limit=5)
@@ -96,9 +96,9 @@
 
 * Alguna línea de código CSS que se aplique.
 
-    [open] > .expandable-opening {
+    `[open] > .expandable-opening {
     list-style-type: '−';
-    }
+    }`
 
 * Alguna línea de código HTML que se aplique.
 
