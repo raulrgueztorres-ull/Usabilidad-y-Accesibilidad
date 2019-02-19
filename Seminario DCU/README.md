@@ -8,7 +8,7 @@ Realizado por:
 * Hernán Daniel González Guanipa.
 * Raúl Rodríguez Torres.
 
-##Versión PDF
+## Versión PDF
 
 Aquí podrá encontrar la versión en [PDF](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/blob/master/Seminario%20DCU/Seminario%20DCU.pdf) del documento.
 
