@@ -4,9 +4,9 @@ Usabilidad y Accesibilidad 2018/2019.
 
 Realizado por:
 	
-	* Daniel Rodríguez Martín.
-	* Hernán Daniel González Guanipa.
-	* Raúl Rodríguez Torres.
+* Daniel Rodríguez Martín.
+* Hernán Daniel González Guanipa.
+* Raúl Rodríguez Torres.
 
 ## Club de Lectura
 
@@ -30,11 +30,11 @@ A partir de la fase de investigación obtenemos diferentes perfiles de usuarios,
 
 Estos perfiles son: 
 
-	* Usuarios que leen de forma constante.
-	* Usuarios que leen de manera esporádica.
-	* Usuarios amantes del debate.
-	* Estudiantes e investigadores.
-	* Lectores de género.
+* Usuarios que leen de forma constante.
+* Usuarios que leen de manera esporádica.
+* Usuarios amantes del debate.
+* Estudiantes e investigadores.
+* Lectores de género.
 
 Como hemos podido observar, tenemos un amplio número de aspectos que cubrir. Esto se debe a que los diferentes usuarios necesitan requisitos distintos que cubrir.
 
@@ -42,23 +42,23 @@ Como hemos podido observar, tenemos un amplio número de aspectos que cubrir. Es
 
 Se han identificado los siguientes requisitos:
 
-	* Variedad de idiomas para adaptarse al uso de personas de habla no hispana.
+* Variedad de idiomas para adaptarse al uso de personas de habla no hispana.
 
-	* Variedad de libros en diferentes géneros. Esto permite satisfacer a un amplio número de usuarios permitiendoles escoger entre sus géneros favoritos o elegir nuevos géneros con los que descubrir nuevas lecturas.
+* Variedad de libros en diferentes géneros. Esto permite satisfacer a un amplio número de usuarios permitiendoles escoger entre sus géneros favoritos o elegir nuevos géneros con los que descubrir nuevas lecturas.
 
-	* Que cada usuario pueda tener una identificación digital. Esto permite a los usuarios disponer de una cuenta privada donde poder administrar sus lecturas, escoger sus géneros, escritores y libros favoritos, alquilar libros de la biblioteca, etc.
+* Que cada usuario pueda tener una identificación digital. Esto permite a los usuarios disponer de una cuenta privada donde poder administrar sus lecturas, escoger sus géneros, escritores y libros favoritos, alquilar libros de la biblioteca, etc.
 
-	* Un sistema de alquiler de libros, que permite a los usuarios leer una y otra vez sus libros favoritos sin necesidad de comprarlo o apostar por una lectura poco conocida con el objetivo de descubrir interés, o no, en un nuevo campo.
+* Un sistema de alquiler de libros, que permite a los usuarios leer una y otra vez sus libros favoritos sin necesidad de comprarlo o apostar por una lectura poco conocida con el objetivo de descubrir interés, o no, en un nuevo campo.
 
-	* Clubes de debate, donde los usuarios puedan compartir sus opiniones con otros lectores y enriquecer lo que conocen del libro a debatir.
+* Clubes de debate, donde los usuarios puedan compartir sus opiniones con otros lectores y enriquecer lo que conocen del libro a debatir.
 
-	* Filtros de búsqueda, para aplicar los filtros que necesite (género, escritor, etc).
+* Filtros de búsqueda, para aplicar los filtros que necesite (género, escritor, etc).
 
-	* Posibilidad de dejar opiniones subjetivas de cada lectura. Esto permite que, en caso de no acudir a los debates o para las personas que no participan en ellos, puedan conocer las opiniones de los lectores sobre los libros y poder recomendarlos o no.
+* Posibilidad de dejar opiniones subjetivas de cada lectura. Esto permite que, en caso de no acudir a los debates o para las personas que no participan en ellos, puedan conocer las opiniones de los lectores sobre los libros y poder recomendarlos o no.
 
-	* Disponibilidad física y digital de los libros. Lo que permite notificar de la disponibilidad física de los libros para aquellas personas que no les gusta leer texto digital o descargar los libros online para otros lectores.
+* Disponibilidad física y digital de los libros. Lo que permite notificar de la disponibilidad física de los libros para aquellas personas que no les gusta leer texto digital o descargar los libros online para otros lectores.
 
-	* Apartado donde los usuarios puedan dejar opiniones sobre el sistema y notificar nuevos requisitos y errores.
+* Apartado donde los usuarios puedan dejar opiniones sobre el sistema y notificar nuevos requisitos y errores.
 
 ## Diseño Conceptual
 
