@@ -16,7 +16,7 @@ Como se ha comentado previamente en clase, realizaremos a lo largo del curso un 
 
 Para esta fase realizamos:
 
-* Encuestas: En las que tomamos cierta información cuantitativa con muestras representativas. Estas encuestas, para reducir costes, fueren realizadas como encuetas de correo y encuestas telefónicas. Las ventajas que nos proporcionan son muy amplias como el anonimato del usuario y la gran dispersión.
+* Encuestas: En las que tomamos cierta información cuantitativa con muestras representativas. Estas, para reducir costes, fueren realizadas como encuestas de correo y encuestas telefónicas. Las ventajas que nos proporcionan son muy amplias como el anonimato del usuario y la gran dispersión.
 
 * Entrevistas en profundidad: Obtenemos información cualitativa con muestras pequeñas. Estas entrevistas fueron realizadas con personas dispuestas a contestar nuestras preguntas y sin ninguna objeción con la grabación de la entrevista para hacer más dinámico su análisis posterior.
 
@@ -36,7 +36,7 @@ Estos perfiles son:
 * Estudiantes e investigadores.
 * Lectores de género.
 
-Como hemos podido observar, tenemos un amplio número de aspectos que cubrir. Esto se debe a que los diferentes usuarios necesitan requisitos distintos que cubrir.
+Como hemos podido observar, tenemos un amplio número de aspectos que cubrir. Esto se debe a que los diferentes usuarios tienen una gran variedad de requisitos.
 
 ## Especificación de requisios
 
