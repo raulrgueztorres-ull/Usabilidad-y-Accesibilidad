@@ -20,7 +20,7 @@ Para esta fase realizamos:
 
 * Entrevistas en profundidad: Obtenemos información cualitativa con muestras pequeñas. Estas entrevistas fueron realizadas con personas dispuestas a contestar nuestras preguntas y sin ninguna objeción con la grabación de la entrevista para hacer más dinámico su análisis posterior.
 
-De la información obtenida con las encuestas obtenemos una visión amplia del analisis mientras que con las entrevistas en profundidad obtenemos información un poco mas específica de la población analizada mediante esas pequeñas muestras.
+De la información obtenida con las encuestas obtenemos una visión amplia del análisis mientras que con las entrevistas en profundidad obtenemos información un poco más específica de la población analizada mediante esas pequeñas muestras.
 
 Esto nos permite hacer un diseño centrado en el usuario (DCU) de nuestro Club de lectura.
 
@@ -38,13 +38,13 @@ Estos perfiles son:
 
 Como hemos podido observar, tenemos un amplio número de aspectos que cubrir. Esto se debe a que los diferentes usuarios tienen una gran variedad de requisitos.
 
-## Especificación de requisios
+## Especificación de requisitos
 
 Se han identificado los siguientes requisitos:
 
 * Variedad de idiomas para adaptarse al uso de personas de habla no hispana.
 
-* Variedad de libros en diferentes géneros. Esto permite satisfacer a un amplio número de usuarios permitiendoles escoger entre sus géneros favoritos o elegir nuevos géneros con los que descubrir nuevas lecturas.
+* Variedad de libros en diferentes géneros. Esto permite satisfacer a un amplio número de usuarios permitiéndoles escoger entre sus géneros favoritos o elegir nuevos géneros con los que descubrir nuevas lecturas.
 
 * Que cada usuario pueda tener una identificación digital. Esto permite a los usuarios disponer de una cuenta privada donde poder administrar sus lecturas, escoger sus géneros, escritores y libros favoritos, alquilar libros de la biblioteca, etc.
 
@@ -62,7 +62,7 @@ Se han identificado los siguientes requisitos:
 
 ## Diseño Conceptual
 
-Mediante toda la información obtenida, logramos conocer los diferentes perfiles de usuarios y generar un perfil estándar. Ese perfil estandar es el que atacaremos para poder realizar el diseño de nuestro Club de lectura. 
+Mediante toda la información obtenida, logramos conocer los diferentes perfiles de usuarios y generar un perfil estándar. Ese perfil estándar es el que atacaremos para poder realizar el diseño de nuestro Club de lectura. 
 
 Para poder obtener una buena visión realizamos un diseño conceptual con un personaje que cumple con el perfil estándar bajo unos escenarios. Para ello realizamos un sketch que lo refleja.
 
