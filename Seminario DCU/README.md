@@ -8,6 +8,10 @@ Realizado por:
 * Hernán Daniel González Guanipa.
 * Raúl Rodríguez Torres.
 
+##Versión PDF
+
+Aquí podrá encontrar la versión en [PDF](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/blob/master/Seminario%20DCU/Seminario%20DCU.pdf) del documento.
+
 ## Club de Lectura
 
 Como se ha comentado previamente en clase, realizaremos a lo largo del curso un proyecto combinado con el material desarrollado en la asignatura "Desarrollo de Sistemas Informáticos". Este proyecto consistirá en un club de lectura. 
