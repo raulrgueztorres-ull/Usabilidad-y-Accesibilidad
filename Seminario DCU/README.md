@@ -66,3 +66,4 @@ Mediante toda la información obtenida, logramos conocer los diferentes perfiles
 
 Para poder obtener una buena visión realizamos un diseño conceptual con un personaje que cumple con el perfil estándar bajo unos escenarios. Para ello realizamos un sketch que lo refleja.
 
+![sketch](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/blob/master/Seminario%20DCU/sketch.jpeg)
