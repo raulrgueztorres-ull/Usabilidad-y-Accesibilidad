@@ -6,3 +6,5 @@ Desarrollo de las prácticas de Usabilidad y Accesibilidad en el Grado de Ingeni
 * [Seminario - DCU](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/tree/master/Seminario%20DCU)
 
 * [Práctica 2 - Introducción a HTML](https://raulrgueztorres-ull.github.io/ClubdeLectura/)
+
+* [Seminario - Uso de la web por personas con discapacidad](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/blob/master/Seminario%20Uso%20de%20la%20web%20por%20personas%20con%20discapacidad/Seminario%20-%20Personas%20con%20disfuncionalidad.pdf)
