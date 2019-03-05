@@ -9,4 +9,4 @@ Desarrollo de las prácticas de Usabilidad y Accesibilidad en el Grado de Ingeni
 
 * [Seminario - Uso de la web por personas con discapacidad](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/blob/master/Seminario%20Uso%20de%20la%20web%20por%20personas%20con%20discapacidad/Seminario%20-%20Personas%20con%20disfuncionalidad.pdf)
 
-*[Seminario - Legislación](https://view.genial.ly/5c7d1bdca159c776291116d0/legislacion)
+* [Seminario - Legislación](https://view.genial.ly/5c7d1bdca159c776291116d0/legislacion)
