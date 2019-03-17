@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+        <link type="text/css" rel="stylesheet" href="css/style.css"  media="screen,projection"/>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    </head>
+	<body>
+        <nav>
+            <div class="nav-wrapper">
+              <a href="#" class="brand-logo"><img src="images/club_de_lectura.png"/></a>
+              <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="#">Libros</a></li>
+                <li><a href="#">Debates</a></li>
+                <li><a href="#">Alquiler</a></li>
+                <li><a href="#">Identificación</a></li>
+              </ul>
+            </div>
+        </nav>
+
+        <div class="slider">
+            <ul class="slides">
+              <li>
+                <img src="images/library.jpg"> 
+                <div class="caption center-align slider-text-1">
+                  <h3>Detrás de un gran libro</h3>
+                  <h5 class="slider-color-1">Hay un gran separador.</h5>
+                </div>
+              </li>
+              <li>
+                <img src="images/dialibro.jpg"> <!-- random image -->
+                <div class="caption left-align slider-text-2">
+                  <h3>Día del libro</h3>
+                  <h5 class="slider-color-2">23 de abril</h5>
+                </div>
+              </li>
+              <li>
+                <img src="images/ken_follet.jpg"> <!-- random image -->
+                <div class="caption right-align slider-text-3">
+                  <h3>Destacado de la semana</h3>
+                  <h5 class="slider-color-3">Ken Follet.</h5>
+                </div>
+              </li>
+              <li>
+                <img src="images/debate.jpg"> <!-- random image -->
+                <div class="caption center-align slider-text-4">
+                  <h3>Salas de Debate</h3>
+                  <h5 class="slider-color-4">El lugar de los lectores</h5>
+                </div>
+              </li>
+            </ul>
+          </div>
+        
+        
+        
+        
+        
+        <div class="container">
+            
+            
+            
+              <div class="carousel">
+                <a class="carousel-item" href="#one!"><img src="images/pilares.jpg"></a>
+                <a class="carousel-item" href="#two!"><img src="images/meditaciones.jpg"></a>
+                <a class="carousel-item" href="#three!"><img src="images/arte.jpg"></a>
+                <a class="carousel-item" href="#four!"><img src="images/hobbit.jpg"></a>
+                <a class="carousel-item" href="#five!"><img src="images/guerra.jpg"></a>
+              </div>
+            
+            <div class="row">
+                <div class="col s12 m6">
+                    <div class="card horizontal">
+                      <div class="card-image">
+                        <img id="profile" src="images/profile.jpg">
+                      </div>
+                      <div class="card-stacked">
+                        <div class="card-content">
+                          <p>Now led tedious shy lasting females off. Dashwood marianne in of entrance be on wondered possible building. Wondered sociable he carriage in speedily margaret. Up devonshire of he thoroughly insensible alteration. An mr settling occasion insisted distance ladyship so. Not attention say frankness intention out dashwoods now curiosity. Stronger ecstatic as no judgment daughter speedily thoughts. Worse downs nor might she court did nay forth these. 
+
+                              Can curiosity may end shameless explained. True high on said mr on come. An do mr design at little myself wholly entire though. Attended of on stronger or mr pleasure. Rich four like real yet west get. Felicity in dwelling to drawings. His pleasure new steepest for reserved formerly disposed jennings. </p>
+                        </div>
+                        <div class="card-action">
+                          <a href="#">Enlace al libro</a>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+
+                <div class="col s12 m6">
+                    <div class="card horizontal">
+                      <div class="card-image">
+                        <img id="profile" src="images/profile1.jpg">
+                      </div>
+                      <div class="card-stacked">
+                        <div class="card-content">
+                          <p>Now led tedious shy lasting females off. Dashwood marianne in of entrance be on wondered possible building. Wondered sociable he carriage in speedily margaret. Up devonshire of he thoroughly insensible alteration. An mr settling occasion insisted distance ladyship so. Not attention say frankness intention out dashwoods now curiosity. Stronger ecstatic as no judgment daughter speedily thoughts. Worse downs nor might she court did nay forth these. 
+
+                              Can curiosity may end shameless explained. True high on said mr on come. An do mr design at little myself wholly entire though. Attended of on stronger or mr pleasure. Rich four like real yet west get. Felicity in dwelling to drawings. His pleasure new steepest for reserved formerly disposed jennings. </p>
+                        </div>
+                        <div class="card-action">
+                            <a href="#">Enlace al libro</a>
+                        </div>
+                      </div>
+                    </div>
+                </div>        
+            </div>
+        </div>       
+        
+        
+        <footer id="myfooter" class="page-footer">
+            <div class="footer-copyright">
+                <div class="container">
+                © 2019 Copyright
+                <a class="grey-text text-lighten-4 right" href="#!">About</a>
+                </div>
+            </div>
+        </footer>
+        
+        
+        <!-------------------------------SCRIPTS------------------------------->
+        <script type="text/javascript">
+             $(document).ready(function(){
+              $('.slider').slider({
+                  indicators: false, full_width: true, interval: 4000});
+            });
+        </script>
+        
+        <script>  
+              $(document).ready(function(){
+                $('.carousel').carousel();
+            });      
+      </script>
+	</body>
+</html>

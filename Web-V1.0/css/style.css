@@ -1,0 +1,72 @@
+nav
+{
+    /*background-color: #607d8b;*/
+    background-color: #f4b241;
+}
+
+.brand-logo img
+{
+    padding-top: 15px;
+    margin-left: 25px;
+    width: 200px;  
+}
+
+/* ----------------------Slider main page-------------------*/
+.slider-text-1 h3
+{
+  color: antiquewhite;  
+}
+
+.slider-color-1
+{
+    color: white;
+}
+
+.slider-text-2 h3
+{
+  color: darkorange;  
+}
+
+.slider-color-2
+{
+    color: white;
+}
+
+.slider-text-3 h3
+{
+    color: #D48269;
+}
+
+.slider-color-3
+{
+    color: #164164;
+}
+
+.slider-text-4 h3
+{
+  color: darkorange;  
+}
+
+.slider-color-4
+{
+    color: white;
+}
+
+/*----------------------------------------------------------*/
+
+#profile
+{
+    width: 200px;
+    height: 200px;
+}
+
+.carousel img
+{
+    width: 350px;
+    height: 250px;
+}
+
+#myfooter
+{
+    background-color: #f4b241;
+}
