@@ -1,8 +1,0 @@
-var productos = {
-    champu: 1.30,
-    gel: 1.00,
-    pasta: 1.00,
-    perfume: 4.50,
-    detergente: 1.50,
-    lejia: 1.20,
-}
