@@ -1,0 +1,29 @@
+{
+    "productos":[
+        {
+            name: "Champu",
+            price: 1.30
+        },
+        {
+            name: "Gel",
+            price: 1.00
+        },
+        {
+            name: "Pasta",
+            price: 1.00
+        },
+        {
+            name: "Perfume",
+            price: 4.50
+        },
+        {
+            name: "Detergente",
+            price: 1.50
+        },
+        {
+            name: "Lejia",
+            price: 1.20
+        }
+    ]
+}
+

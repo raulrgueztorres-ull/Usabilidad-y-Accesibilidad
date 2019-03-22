@@ -1,0 +1,41 @@
+#generate
+{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    font-size: 50px;
+    width: auto;
+    height: 100px;
+    color: white;
+    border: 2px solid gold;
+    padding-top: 25px;
+}
+
+body
+{
+    /*background-color: #f4b241;*/
+    background-image: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-467578.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+    font-size: 2.5em;
+}
+
+#div-button 
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+#boton
+{
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+}
