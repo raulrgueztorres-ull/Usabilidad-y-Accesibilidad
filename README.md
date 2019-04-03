@@ -21,3 +21,4 @@ Desarrollo de las prácticas de Usabilidad y Accesibilidad en el Grado de Ingeni
   * [Entregable](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/tree/master/IntroduccionJavaScript/Entregable)
    * [Compra](https://raulrgueztorres-ull.github.io/Usabilidad-y-Accesibilidad/IntroduccionJavaScript/Entregable/compra/)
    * [Conversor](https://raulrgueztorres-ull.github.io/Usabilidad-y-Accesibilidad/IntroduccionJavaScript/Entregable/conversor/)
+   * [Contador Etiquetas](https://raulrgueztorres-ull.github.io/Usabilidad-y-Accesibilidad/IntroduccionJavaScript/Entregable/contador/)
