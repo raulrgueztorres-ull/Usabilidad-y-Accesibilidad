@@ -23,6 +23,5 @@ Desarrollo de las prácticas de Usabilidad y Accesibilidad en el Grado de Ingeni
    * [Conversor](https://raulrgueztorres-ull.github.io/Usabilidad-y-Accesibilidad/IntroduccionJavaScript/Entregable/conversor/)
    * [Contador Etiquetas](https://raulrgueztorres-ull.github.io/Usabilidad-y-Accesibilidad/IntroduccionJavaScript/Entregable/contador/)
 
-* [Ajax-Jquery]
-   * [Códigos](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/tree/master/ajax-jquery)
+* [Ajax-Jquery](https://github.com/raulrgueztorres-ull/Usabilidad-y-Accesibilidad/tree/master/ajax-jquery)
    * [Web]()
