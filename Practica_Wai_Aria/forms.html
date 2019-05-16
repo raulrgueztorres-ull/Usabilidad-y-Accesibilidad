@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <!--Import Google Icon Font-->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!--Import materialize.css-->
+        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+        <link type="text/css" rel="stylesheet" href="css/style_form.css"/>
+
+        <!--Let browser know website is optimized for mobile-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+        <link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="images/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="images/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="images/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="images/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="images/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="images/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="images/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="images/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="images/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <meta charset="utf-8">
+        
+    </head>
+    <body>
+        <nav>
+            <div class="nav-wrapper" role="navigation">
+              <a href="index.html" class="brand-logo"><img alt="Logo Club de Lectura" src="images/logo_lectura.png"/></a>
+              <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <li><a href="forms.html">Libros</a></li>
+                <li><a href="#">Debates</a></li>
+                <li><a href="#">Alquiler</a></li>
+                <li><a href="login.html">Identificación</a></li>
+              </ul>
+            </div>
+        </nav>
+        <h1 id="message"></h1>
+        <div class="container">
+            <div id="change">
+                <div class="row form" role="form" aria-label="Formulario para la introducción de libros en la base de datos">
+                    <form class="col s8 offset-s2">
+                      <div class="row">
+                        <div class="input-field col s6">
+                            <input id="author" type="text" name="Autor del libro" aria-describedby="help_field_author" aria-label="Entrada Autor" aria-required= "true" class="validate" required>
+                            <label for="author">Autor<abbr tittle="Campo obligatorio">*</abbr></label>
+                            <p class="error" id="author_error" aria-labelledby="author_error" role="alert"></p>
+                            <p id="help_field_author" class="help">El nombre debe comenzar por letra mayúscula</p>
+                        </div>
+                        <div class="input-field col s6">
+                            <input id="tittle" type="text" name= "Título del libro" aria-describedby="help_field_tittle" aria-label="Entrada Título" aria-required= "true" class="validate" required>
+                            <label for="tittle">Título<abbr tittle="Campo obligatorio">*</abbr></label>
+                            <p class="error" id="tittle_error" aria-labelledby="tittle_error" role="alert"></p>
+                            <p id="help_field_tittle" class="help">El título debe comenzar por letra mayúscula</p>
+                        </div>
+                        <div class="input-field col s6">
+                            <input id="year" type="number" name=" Año de lanzamiento del libro" aria-describedby="help_field_year" aria-label="Entrada Año de Lanzamiento" aria-required= "true" class="validate" required>
+                            <label for="year">Año Lanzamiento<abbr tittle="Campo obligatorio">*</abbr></label>
+                            <p class="error" id="year_error" aria-labelledby="year_error" role="alert"></p>
+                            <p id="help_field_year" class="help">El año de salida debe ser igual o menor al actual</p>
+                        </div>
+                        <div class="input-field col s6">
+                            <input id="name" type="text" class="validate" name="Nombre para la entrada en la base de datos" aria-describedby="help_field_name" aria-label="Entrada Nombre Para La Base De Datos" aria-required= "true" required pattern="[a-z]*">
+                            <label for="name">Nombre Entrada Base de Datos<abbr tittle="Campo obligatorio">*</abbr></label>   
+                            <p class="error" id="name_error" aria-labelledby="name_error" role="alert"></p>
+                            <p id="help_field_name" class="help">El nombre debe comenzar por letra minúscula</p>
+                        </div>
+                      </div>
+                    </form>
+                </div>
+                <div id="button_div" ><a class="waves-effect button waves-light btn" role="button" aria-label="Introducir Libro" onclick="validate()" alt="Introducir Libro"><i class="material-icons right">cloud</i>Introducir</a></div>
+            </div>
+            <div id="reload_button" role="button" aria-label="Volver"></div>
+        </div>
+        
+    
+        <script src="https://www.gstatic.com/firebasejs/5.10.0/firebase.js"></script>
+        <script type="text/javascript" src="js/materialize.min.js"></script>
+        <script type="text/javascript" src="js/code.js"></script>
+    </body>
+</html>

@@ -1,0 +1,64 @@
+nav
+{
+    background-color: #f4b241;
+}
+
+.brand-logo img
+{
+    padding-top: 15px;
+    margin-left: 25px;
+    width: 200px;  
+}
+
+
+.books
+{
+    margin: auto;
+
+}
+
+.books img
+{
+    max-height: 400px;
+    max-width: 600px;
+    border: 12px solid rgba(222,190,84,1);
+    border-radius: 10px;
+}
+
+.margen
+{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.div_books
+{
+    display: flex;
+    justify-content: center;
+}
+
+body
+{
+    /*background-color: #DFD3A5;*/
+    background-image: url(/images/books_background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100%;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+html
+{
+    height: 100%;
+}
+
+#myfooter
+{
+    background-color: #f4b241;
+    position: absolute;
+    width: 100%;
+}

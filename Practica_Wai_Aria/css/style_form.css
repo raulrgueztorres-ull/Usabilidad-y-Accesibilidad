@@ -1,0 +1,80 @@
+.form
+{
+    margin: auto;
+    margin-top: 50px;
+}
+
+body
+{
+    background-image: url(../images/background1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.input-field label
+{
+    color: white;
+    font-size: 1.2em;
+    text-shadow: 4px -1px 3px black; 
+}
+
+.input-field input
+{
+    color: white;
+}
+
+
+#button_div
+{
+    display: flex;
+    justify-content: center;    
+}
+
+.button
+{
+    background-color: white;
+    color: rgba(31,48,74,1);
+    font-size: 1.2em;
+    text-shadow: 2px 1px 5px; 
+}
+
+.button:hover
+{
+    background-color: rgba(31,48,74,1);
+    color: white;
+}
+
+#change
+{
+    color: white;
+    font-size: 1.5em;
+}
+
+.error
+{
+    font-size: 0.7em;
+    color: red;
+    background-color: white;
+    text-align: center;
+}
+
+.help
+{
+    font-size: 0.7em;
+    color: white;
+    background-color: #2E617E;
+    text-align: center;
+}
+
+nav
+{
+    /*background-color: #607d8b;*/
+    background-color: #f4b241;
+}
+
+.brand-logo img
+{
+    padding-top: 15px;
+    margin-left: 25px;
+    width: 200px;  
+}
